@@ -154,4 +154,4 @@ subMenuEl.addEventListener("click", function (event) {
 //Part 6: Completion and Code Review
 // Test your menu! If it works in a way that makes sense, you have likely been successful. Your instructor has been provided with a completed version of this assignment, and time permitting, will do a brief code review so that you can make comparisons with your own approaches.
 // Remember, functionality is key! There are many ways to arrive at the same solution in development, and often the difference in syntax between two solutions is inconsequential. If it works, good job!
-// Remember to submit the link to this part of the project to Canvas using the submission instructions at the beginning of this document.
+// Remember to submit the link to this part of the project to Canvas using the submission instructions at the beginning of this document. 
